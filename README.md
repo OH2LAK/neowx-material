@@ -1,4 +1,6 @@
-# Fork of NeoWX Material
+# Finnish localization of the Fork of NeoWX Material
+# Suomalainen versio NeoWX Material -skinistä WeeWX-sääasemaohjelmistoon.
+
 As the original repository (https://github.com/neoground/neowx-material) is
 no longer maintained, this fork contains latest changes, improvements and bugfixes
 
